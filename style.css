@@ -33,7 +33,8 @@ button{
 label{
     color: black;
 }
-.p_1_text{
+.p_1_text
+.p_2_text{
     border-color: black;
     border-width: 2;
 }
@@ -52,4 +53,15 @@ h5{
     font-size:xx-large;
     color: violet;
 
+}
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#quiz_game_page{
+    background-color: ;
 }
